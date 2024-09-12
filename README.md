@@ -7,7 +7,7 @@ https://www.figma.com/design/T5oU6trxlzT1J9UAwy1DLk/IHC-Wireframe?t=NAxEj0bDnXBH
 
 Link para o protótipo final no Figma:
 
-https://www.figma.com/proto/JGrAgBi1R7Cuz37ADJY6SB/IHC?node-id=39-927&node-type=canvas&t=O3S2WfTy108e3Vkh-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=11%3A17&show-proto-sidebar=1
+[[https://www.figma.com/proto/JGrAgBi1R7Cuz37ADJY6SB/IHC?node-id=39-927&node-type=canvas&t=O3S2WfTy108e3Vkh-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=11%3A17&show-proto-sidebar=1](https://www.figma.com/proto/JGrAgBi1R7Cuz37ADJY6SB/IHC?node-id=11-17&node-type=canvas&t=AnWWZcY6gue5qKde-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=11%3A17)](https://www.figma.com/proto/JGrAgBi1R7Cuz37ADJY6SB/IHC?node-id=11-17&node-type=canvas&t=AnWWZcY6gue5qKde-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=11%3A17)
 
 Link para o vídeo:
 
